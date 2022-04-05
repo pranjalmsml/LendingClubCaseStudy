@@ -1,5 +1,5 @@
 # Lending Club
-> Lending CLub Project details
+> Lending Club Project details
 
 
 ## Table of Contents
